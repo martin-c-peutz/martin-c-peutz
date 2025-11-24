@@ -2,12 +2,10 @@
 
 ### Building systems, tools, and products that scale.
 
----
 
 ## About
 I design and ship software with a focus on reliability, performance, and clean architecture. Interests include distributed systems, developer tooling, and automation.
 
----
 
 ## Skills
 **Languages:** TypeScript, Python, Java, Rust  
@@ -15,7 +13,6 @@ I design and ship software with a focus on reliability, performance, and clean a
 **Cloud & Infra:** AWS, GCP, Docker, Kubernetes, Terraform, Pulumi
 **Data & ML:** Postgres, Redis, Kafka, PyTorch
 
----
 
 ## Featured Projects
 ### 🚀 Project One
@@ -31,25 +28,22 @@ I design and ship software with a focus on reliability, performance, and clean a
 - Data pipeline for ingestion and analytics  
 - Streaming architecture with robust monitoring  
 
----
 
 ## Metrics
 ![Stats](https://github-readme-stats.vercel.app/api?username=martin-c-peutz&show_icons=true)  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-c-peutz&layout=compact)
 
----
 
 ## Roadmap
 - Expand open-source tooling  
 - Build scalable microservices examples  
 - Publish technical deep dives and architectural guides  
 
----
 
 ## Links
-- **Website:** https://your-site.com  
-- **Email:** your.email@example.com  
-- **LinkedIn:** ![LinkedIn](https://www.linkedin.com/in/martin-c-peutz-332a01207)
+- ![**Website**](https://tap-go.eu)
+- ![**Email**](mailto:martin@peutz.at)  
+- ![**LinkedIn**](https://www.linkedin.com/in/martin-c-peutz-332a01207)
 
 
 <!--
