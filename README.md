@@ -41,9 +41,9 @@ I design and ship software with a focus on reliability, performance, and clean a
 
 
 ## Links
-- ![**Website**](https://tap-go.eu)
-- ![**Email**](mailto:martin@peutz.at)  
-- ![**LinkedIn**](https://www.linkedin.com/in/martin-c-peutz-332a01207)
+- [**Website**](https://tap-go.eu)
+- [**Email**](mailto:martin@peutz.at)  
+- [**LinkedIn**](https://www.linkedin.com/in/martin-c-peutz-332a01207)
 
 
 <!--
