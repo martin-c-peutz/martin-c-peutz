@@ -54,7 +54,7 @@ I'm focused on contributing to open-source infrastructure tooling, building refe
 ## 🔗 Connect
 
 **🌐 Web:** [tap-go.eu](https://tap-go.eu)  
-**📧 Email:** [martin@peutz.at](mailto:martin@peutz.at)  
+**📧 Email:** [martin@peutz.at](mailto:martin@tap-go.eu)  
 **💼 LinkedIn:** [martin-c-peutz](https://www.linkedin.com/in/martin-c-peutz-332a01207)
 
 ---
