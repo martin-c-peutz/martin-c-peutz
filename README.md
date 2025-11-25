@@ -36,7 +36,7 @@ AI-powered real estate assistant with data analytics capabilities. Implements au
 
 **Tech:** Next.js 16 · GCP · Terraform · Pub/Sub · Cloud Scheduler · Docker · Cloud Build · Vertex AI
 
-### ⚡ Full-Stack TypeScript Starter
+### ⚡ Full-Stack TypeScript Starter ([Link](https://github.com/martin-c-peutz/typescript-starter))
 Production-ready starter template with modern tooling and best practices. Includes authentication, payments, email, and fully typed end-to-end APIs with infrastructure as code.
 
 **Tech:** Next.js 16 · React 19 · tRPC 11 · Better Auth · Stripe · PostgreSQL 16 · Drizzle ORM · Pulumi · AWS (VPC, RDS, ECS, S3, CloudFront, SES)
